@@ -1,5 +1,5 @@
-# amtavihara-project
-This is a project for Amtavihara Meditation Center. It is intended to be a platform to communicate and share event information.
+# amatavihara-project
+This is a project for Amatavihara Meditation Center. It is intended to be a platform to communicate and share event information.
 
 
 There three steps pending
